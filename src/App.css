@@ -22,6 +22,7 @@ body {
 .container {
   margin: 30px auto;
   width: 350px;
+  text-align: center;
 }
 
 h1 {
@@ -148,4 +149,12 @@ input[type="number"] {
 
 .list li:hover .delete-btn {
   opacity: 1;
+}
+
+.header {
+  text-align: center;
+}
+
+.balance {
+  padding-top: 10px;
 }
